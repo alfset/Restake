@@ -1,0 +1,9 @@
+[0;1;32m●[0m restake.timer - Restake bot timer
+     Loaded: loaded (/etc/systemd/system/restake.timer; enabled; vendor preset: enabled)
+     Active: [0;1;32mactive (waiting)[0m since Fri 2022-12-30 20:51:37 CET; 1h 10min ago
+    Trigger: Sat 2022-12-31 21:00:00 CET; 22h left
+   Triggers: [0;1;31m●[0m restake.service
+
+Dec 30 20:51:37 vmi1057275.contaboserver.net systemd[1]: Stopped Restake bot timer.
+Dec 30 20:51:37 vmi1057275.contaboserver.net systemd[1]: Stopping Restake bot timer...
+Dec 30 20:51:37 vmi1057275.contaboserver.net systemd[1]: Started Restake bot timer.
