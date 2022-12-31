@@ -428,3 +428,4 @@ The initial version of REStake was built quickly to take advantage of the new au
 
 ECO Stake is a climate positive validator, but we care about the Cosmos ecosystem too. We built REStake to make it easy for all validators to run an autocompounder with Authz, and it's one of many projects we work on in the ecosystem. [Delegate with us](https://ecostake.com) to support more projects like this.
 # Restake
+# Restake
